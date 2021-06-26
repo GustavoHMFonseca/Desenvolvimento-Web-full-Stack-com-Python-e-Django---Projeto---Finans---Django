@@ -1,0 +1,1 @@
+Arquivos do Projeto Finans em Django. Nesse projeto foi configurado o projeto Finans feito na seção de bootstrap 4 para rodar corretamente dentro de um projeto Django.
